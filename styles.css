@@ -184,7 +184,7 @@ i, code {
  content: "";
  clear: both;
 }
-#svg {
+.svg {
  height: 55px;
  width: 49px;
  display: block;
